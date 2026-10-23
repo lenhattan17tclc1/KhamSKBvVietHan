@@ -1,0 +1,5 @@
+openpyxl
+xlrd
+xlwt
+xlutils
+python-docx
